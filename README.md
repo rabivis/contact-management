@@ -4,8 +4,6 @@
 
 #Example of shopping cart.
 
-#Local Storage configured.
-
 Boilerplate and guide for a React/css/Redux build.
 
 ## Getting Started
